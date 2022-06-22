@@ -13,3 +13,6 @@ As we have discussed initially about **Growth Mindset**. There are two sides to 
 
 To find out more how you can benefit from a growth mindset go [HERE](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
+
+
+![James Abuan](E5C45CB0-7EBB-4447-BD3E-FC2635B3BC6A.jpeg)
