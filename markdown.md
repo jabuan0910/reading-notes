@@ -15,4 +15,4 @@ To find out more how you can benefit from a growth mindset go [HERE](https://www
 
 
 
-![James's Photo] (E5C45CB0-7EBB-4447-BD3E-FC2635B3BC6A.jpeg)
+![James's Photo](E5C45CB0-7EBB-4447-BD3E-FC2635B3BC6A.jpeg)
