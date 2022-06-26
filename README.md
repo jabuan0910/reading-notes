@@ -15,3 +15,5 @@ You can view my [github profile](https://github.com/jabuan0910), or connect with
 2. [Coder's Computer](coderscomputer.md)
 3. [Git vs GitHub](git.md)
 4. [HTML](html.md)
+5. [CSS](css.md)
+6. [JavaScript](javascript.md)
