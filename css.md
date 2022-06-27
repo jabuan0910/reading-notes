@@ -26,10 +26,10 @@ h1 {
     font-size: 5em;
 }
 ```
-* In the above example, the CSS rule opens with a selector . This selects the HTML element that we are going to style. In this case, we are styling level one headings (<h1>).
+* In the above example, the CSS rule opens with a selector . This selects the HTML element that we are going to style. In this case, we are styling level one headings (`<h1>`).
 * We then have a set of curly braces { }.
 *  Inside the braces will be one or more declarations, which take the form of property and value pairs. We specify the property (color in the above example) before the colon, and we specify the value of the property after the colon (red in this example).
-* This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (<h1> in this case), then a value that we'd like to give the property.
+* This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (`<h1>`) in this case), then a value that we'd like to give the property.
 
 
 For more information go [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
