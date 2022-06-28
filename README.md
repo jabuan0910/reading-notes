@@ -17,3 +17,4 @@ You can view my [github profile](https://github.com/jabuan0910), or connect with
 4. [HTML](html.md)
 5. [CSS](css.md)
 6. [JavaScript](javascript.md)
+7. [JavaScript1](javascript1.md)
